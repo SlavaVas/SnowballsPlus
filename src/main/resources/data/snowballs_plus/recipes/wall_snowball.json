@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "WRW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:ice"
+    },
+    "R": {
+      "item": "minecraft:snowball"
+    }
+  },
+  "result": {
+    "item": "snowballs_plus:wall_snowball",
+    "count": 1
+  }
+}

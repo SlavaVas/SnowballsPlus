@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:snowball"
+    },
+    {
+      "item": "minecraft:powder_snow_bucket"
+    }
+  ],
+  "result": {
+    "item": "snowballs_plus:small_snowball",
+    "count": 8
+  }
+}

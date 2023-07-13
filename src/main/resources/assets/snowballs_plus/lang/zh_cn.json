@@ -1,0 +1,15 @@
+{
+  "item.snowballs_plus.ice_snowball": "冰雪球",
+  "item.snowballs_plus.wall_snowball": "围墙雪球",
+  "item.snowballs_plus.fortress_snowball": "堡垒雪球",
+  "item.snowballs_plus.marker_snowball": "标记雪球",
+  "item.snowballs_plus.healthy_snowball": "健康雪球",
+  "item.snowballs_plus.suction_snowball": "吸力雪球",
+  "item.snowballs_plus.stones_snowball": "石子雪球",
+  "item.snowballs_plus.fangs_snowball": "獠牙雪球",
+  "item.snowballs_plus.small_snowball": "小雪球",
+  "item.snowballs_plus.amethyst_snowball": "水晶雪球",
+  "item.snowballs_plus.bloodthirsty_snowball": "嗜血雪球",
+  "text.player.tips": "太热了！， 请把冰块放你的副手那！",
+  "itemGroup.snowballs_plus.mod_item_group": "Snowball Plus"
+}

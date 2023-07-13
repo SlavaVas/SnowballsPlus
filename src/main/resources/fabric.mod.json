@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "snowballs_plus",
+  "version": "${version}",
+  "name": "SnowballsPlus",
+  "description": "Welcome to SnowballsPlus Mod",
+  "authors": [
+    "Mao"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/snowballs_plus/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.mao.snowballs_plus.SnowballsPlusClient"
+    ],
+    "main": [
+      "com.mao.snowballs_plus.SnowballsPlus"
+    ]
+  },
+  "mixins": [
+    "SnowballsPlus.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

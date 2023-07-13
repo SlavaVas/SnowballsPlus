@@ -1,0 +1,15 @@
+{
+  "item.snowballs_plus.ice_snowball": "Ice Snowball",
+  "item.snowballs_plus.wall_snowball": "Wall Snowball",
+  "item.snowballs_plus.fortress_snowball": "Fortress Snowball",
+  "item.snowballs_plus.marker_snowball": "Marker Snowball",
+  "item.snowballs_plus.healthy_snowball": "Healthy Snowball",
+  "item.snowballs_plus.suction_snowball": "Suction Snowball",
+  "item.snowballs_plus.stones_snowball": "Stones Snowball",
+  "item.snowballs_plus.fangs_snowball": "Fangs Snowball",
+  "item.snowballs_plus.small_snowball": "Small Snowball",
+  "item.snowballs_plus.amethyst_snowball": "Amethyst Snowball",
+  "item.snowballs_plus.bloodthirsty_snowball": "Bloodthirsty Snowball",
+  "text.player.tips": "So hot, your snowballs is melting, you must take a piece of ice in the offhand",
+  "itemGroup.snowballs_plus.mod_item_group": "Snowballs Plus"
+}
