@@ -1,0 +1,15 @@
+{
+  "item.snowballs_plus.ice_snowball": "Ледяной Снежок",
+  "item.snowballs_plus.wall_snowball": "Стенной Снежок",
+  "item.snowballs_plus.fortress_snowball": "Крепость Снежок",
+  "item.snowballs_plus.marker_snowball": "Маркерный Снежок",
+  "item.snowballs_plus.healthy_snowball": "Лечащий Снежок",
+  "item.snowballs_plus.suction_snowball": "Всасывающий снежок",
+  "item.snowballs_plus.stones_snowball": "Каменный Снежок",
+  "item.snowballs_plus.fangs_snowball": "Клыкальный Снежок",
+  "item.snowballs_plus.small_snowball": "Маленький Снежок",
+  "item.snowballs_plus.amethyst_snowball": "Аметистовый Снежок",
+  "item.snowballs_plus.bloodthirsty_snowball": "Кровожадный снежок",
+  "text.player.tips": "Так жарко, что снежки тают, приходится брать в руки кусок льда.",
+  "itemGroup.snowballs_plus.mod_item_group": "Snowballs Plus"
+}
